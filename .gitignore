@@ -5,8 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+.knn_base
 # Distribution / packaging
+.knn_base
 .Python
 build/
 develop-eggs/
